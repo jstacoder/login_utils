@@ -16,6 +16,10 @@ LoginUtils
     to install
         python setup.py install
 
+        or just
+
+        pip install LoginUtils  
+
     to use:
         
         from LoginUtils import encrypt_password, check_password
