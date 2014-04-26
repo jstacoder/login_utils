@@ -1,0 +1,13 @@
+LoginUtils
+
+    python tools for logging in and out of an interface
+
+    to install
+        python setup.py install
+
+    to use:
+        
+        from LoginUtils import encrypt_password, check_password
+
+        pw = encrypt_password('agoodpw')
+        check_password('agoodpw',pw) => True
