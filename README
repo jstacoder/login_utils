@@ -1,6 +1,17 @@
 LoginUtils
+----------
 
     python tools for logging in and out of an interface
+    ===================================================
+
+
+    completley secure, using a salted checksum, dont worry
+    about storing user passwords in your database anymore
+
+
+    
+    Install & Usage Instructions:
+    =============================
 
     to install
         python setup.py install
